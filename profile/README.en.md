@@ -7,6 +7,8 @@
   <img src="https://github.com/user-attachments/assets/d651ddbd-5bd4-49c5-b9dd-3821b46959b4" align="middle" width="500" alt="ShanXi-KUG-Title-Logo">
 <p>
 
+> Welcome to contact us through the following channels to learn and participate in various activities together!
+
 --------
 
 <p align="center">
