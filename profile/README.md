@@ -1,3 +1,5 @@
+**简体中文** | [English](./README.en.md)
+
 <h2 stype="font-weight: 700; text-align: center;" align="center">欢迎来到山西KUG！</h2>
 
 <p align="center">
