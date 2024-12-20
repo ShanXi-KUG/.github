@@ -1,6 +1,6 @@
 **简体中文** | [English](./README.en.md)
 
-<h2 stype="font-weight: 700; text-align: center;" align="center">欢迎来到山西KUG！</h2>
+<h1 stype="font-weight: 700; text-align: center;" align="center">欢迎来到山西KUG！</h1>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d651ddbd-5bd4-49c5-b9dd-3821b46959b4" align="middle" width="500" alt="ShanXi-KUG-Title-Logo">
