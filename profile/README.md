@@ -2,9 +2,11 @@
 
 <h1 stype="font-weight: 700; text-align: center;" align="center">欢迎来到山西KUG！</h1>
 
+<a href="https://shanxi-kug.github.io/" alt="山西KUG" style="display: block">
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d651ddbd-5bd4-49c5-b9dd-3821b46959b4" align="middle" width="500" alt="ShanXi-KUG-Title-Logo">
 <p>
+</a>
 
 > 在这里你可以联系我们加入`ShanXi Kotlin User Group`，一起讨论学习`Kotlin`以及参与相关的线上线下活动！
 
