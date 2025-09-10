@@ -3,9 +3,11 @@
 
 <h1 stype="font-weight: 700; text-align: center;" align="center">Welcome to ShanXi KUG!</h1>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d651ddbd-5bd4-49c5-b9dd-3821b46959b4" align="middle" width="500" alt="ShanXi-KUG-Title-Logo">
-<p>
+<a href="https://shanxi-kug.github.io/" alt="ShanXi-KUG" style="display: block">
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/d651ddbd-5bd4-49c5-b9dd-3821b46959b4" align="middle" width="500" alt="ShanXi-KUG-Title-Logo">
+  <p>
+</a>
 
 > Welcome to contact us through the following channels to learn and participate in various activities together!
 
