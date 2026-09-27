@@ -1,0 +1,35 @@
+name: 问题反馈
+description: 报错、显示错乱、行为不符预期
+title: '[问题] '
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: 问题描述
+      description: 看到了什么，本应是什么
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤
+      placeholder: |
+        1.
+        2.
+    validations:
+      required: true
+
+  - type: input
+    id: env
+    attributes:
+      label: 环境
+      placeholder: Windows 11、Chrome 140、Kotlin 2.3
+    validations:
+      required: true
+
+  - type: textarea
+    id: log
+    attributes:
+      label: 截图或日志
